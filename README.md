@@ -6,32 +6,31 @@ Ir dotas 5 kartes, kuru izbraukšanai ir jāizveido programma. Programmu nākama
 
 Karte pārbauda spēju nokļūt no sākuma līdz beigām.
 
-![1. karte](img/map1.png =200x400)
 <img src="img/map1.png" width="200" height="400"/>
 
 ## 2. karte
 
 Karte pārbauda spēju apbraukt šķērslim.
 
-![2. karte](img/map2.png =200x400)
+<img src="img/map2.png" width="200" height="400"/>
 
 ## 3. karte
 
 Karte pārbauda spēju apbraukt sarežģītam šķērslim.
 
-![3. karte](img/map3.png =200x400)
+<img src="img/map3.png" width="200" height="400"/>
 
 ## 4. karte
 
 Karte pārbauda spēju izbraukt karti ar mainīgu lauciņu izkārtojumu.
 
-![4. karte](img/map4.png =200x400)
+<img src="img/map4.png" width="200" height="400"/>
 
 ## 5. karte
 
 Karte pārbauda spēju izbraukt karti ar mainīgu lauciņu izkārtojumu un mainīgiem sākuma / beigu punktiem.
 
-![5. karte](img/map5.png =200x400)
+<img src="img/map5.png" width="200" height="400"/>
 
 ## Karšu dati
 
