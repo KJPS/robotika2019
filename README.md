@@ -7,6 +7,7 @@ Ir dotas 5 kartes, kuru izbraukšanai ir jāizveido programma. Programmu nākama
 Karte pārbauda spēju nokļūt no sākuma līdz beigām.
 
 ![1. karte](img/map1.png =200x400)
+<img src="img/map1.png" style="width: 200px; height: 400px;"/>
 
 ## 2. karte
 
