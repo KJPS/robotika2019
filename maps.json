@@ -1,0 +1,53 @@
+{
+    "map1": {
+        "map": {
+            "width": 1000,
+	    "height": 2000,
+	    "margin": 20
+        },
+        "figures": [
+            {
+		"type": "start",
+                "x": 380,
+	        "y": 1710,
+	        "width": 250,
+	        "height": 200
+            }, {
+	    	"type": "end",
+		"x": 350,
+		"y": 50,
+	    	"width": 260,
+	        "height": 260
+	    }
+        ]
+    },
+    "map2": {
+        "map": {
+            "width": 1000,
+            "height": 2000,
+            "margin": 20
+        },
+        "figures": [
+            {
+                "type": "start",
+                "x": 380,
+                "y": 1710,
+                "width": 250,
+                "height": 200
+            }, {
+                "type": "end",
+                "x": 350,
+                "y": 50,
+                "width": 260,
+                "height": 260
+            }, {
+                "type": "figure",
+		"x": 416,
+		"y": 949,
+		"width": 128,
+		"height": 63
+	    }
+        ]
+    }
+}
+
