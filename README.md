@@ -22,7 +22,7 @@ Karte pārbauda spēju apbraukt sarežģītam šķērslim.
 
 ## 4. karte
 
-Karte pārbauda spēju izbraukt karti ar mainīgu lauciņu izkārtojumu.
+Karte pārbauda spēju izbraukt ļoti sarežģītu karti.
 
 <img src="img/map4.png" width="200" height="400"/>
 
