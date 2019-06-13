@@ -22,7 +22,7 @@ Karte pārbauda spēju apbraukt sarežģītam šķērslim.
 
 ## 4. karte
 
-Karte pārbauda spēju izbraukt ļoti sarežģītu karti.
+Karte pārbauda spēju atrast īsāko ceļu un būt precīzam.
 
 <img src="img/map4.png" width="200" height="400"/>
 

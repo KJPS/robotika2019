@@ -94,6 +94,70 @@
 		"height": 768
 	    }
         ]
+    },
+    "map4": {
+        "map": {
+            "width": 1000,
+	    "height": 2000,
+	    "margin": 30
+        },
+        "figures": [
+            {
+                "type": "start",
+                "x": 800,
+                "y": 0,
+                "width": 200,
+                "height": 220
+            }, {
+                "type": "end",
+                "x": 0,
+                "y": 0,
+                "width": 260,
+                "height": 260
+            }, {
+                "type": "figure",
+		"x": 637,
+		"y": 0,
+		"width": 63,
+		"height": 256
+	    }, {
+                "type": "figure",
+		"x": 572,
+		"y": 256,
+		"width": 128,
+		"height": 63
+	    }, {
+                "type": "figure",
+		"x": 872,
+		"y": 422,
+		"width": 128,
+		"height": 63
+	    }, {
+                "type": "figure",
+		"x": 463,
+		"y": 319,
+		"width": 63,
+		"height": 1280
+	    }, {
+                "type": "figure",
+		"x": 616,
+		"y": 1778,
+		"width": 384,
+		"height": 63
+	    }, {
+                "type": "figure",
+		"x": 200,
+		"y": 319,
+		"width": 63,
+		"height": 1280
+	    }, {
+                "type": "figure",
+		"x": 544,
+		"y": 927,
+		"width": 256,
+		"height": 63
+	    }
+        ]
     }
 }
 
