@@ -22,13 +22,13 @@ Karte pārbauda spēju apbraukt sarežģītam šķērslim.
 
 ## 4. karte
 
-Karte pārbauda spēju atrast īsāko ceļu un būt precīzam.
+Karte pārbauda spēju atrast īsāko ceļu.
 
 <img src="img/map4.png" width="200" height="400"/>
 
 ## 5. karte
 
-Karte pārbauda spēju izbraukt karti ar mainīgu lauciņu izkārtojumu un mainīgiem sākuma / beigu punktiem.
+Karte pārbauda spēju atrast īsāko ceļu un būt precīzam.
 
 <img src="img/map5.png" width="200" height="400"/>
 
