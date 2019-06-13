@@ -15,8 +15,8 @@ for (var name in maps) {
     ctx.beginPath();
     ctx.rect(0, 0, w, h);
     ctx.fillStyle = "white";
-    ctx.strokeStyle = "black";
-    ctx.lineWidth = m;
+    ctx.strokeStyle = "green";
+    ctx.lineWidth = m * 2;
     ctx.fill();
     ctx.stroke();
 
@@ -48,7 +48,7 @@ for (var name in maps) {
             case "figure":
                 ctx.fillStyle = 'red';
                 ctx.fill();
-		ctx.lineWidth = 1;
+		ctx.lineWidth = 4;
 		ctx.strokeStyle = "black";
                 ctx.stroke();
             break;

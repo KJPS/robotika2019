@@ -48,6 +48,52 @@
 		"height": 63
 	    }
         ]
+    },
+    "map3": {
+        "map": {
+            "width": 1000,
+	    "height": 2000,
+	    "margin": 30
+        },
+        "figures": [
+            {
+                "type": "start",
+                "x": 400,
+                "y": 1730,
+                "width": 200,
+                "height": 220
+            }, {
+                "type": "end",
+                "x": 370,
+                "y": 50,
+                "width": 260,
+                "height": 260
+            }, {
+                "type": "figure",
+		"x": 0,
+		"y": 1617,
+		"width": 768,
+		"height": 63
+	    }, {
+                "type": "figure",
+		"x": 232,
+		"y": 360,
+		"width": 768,
+		"height": 63
+	    }, {
+                "type": "figure",
+		"x": 232,
+		"y": 423,
+		"width": 63,
+		"height": 768
+	    }, {
+                "type": "figure",
+		"x": 705,
+		"y": 849,
+		"width": 63,
+		"height": 768
+	    }
+        ]
     }
 }
 
