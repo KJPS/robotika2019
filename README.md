@@ -38,4 +38,10 @@ Dati par kartēm ir pieejami [šeit](maps.json).
 
 ## Sacensību noteikumi
 
-Lai sasniegtu nākamo karti, ir jāuzraksta algoritms, kurš nokļūst no sākuma līdz beigu laukumam neko neizkustinot. Tajā kartē, par kuru tālāk nevar tikt, uzvarētājs tiek noteikts pēc ātrākā laika, ar kādu karte tika veikta.
+Uzdevums ir nokļūt ar robotu un programmas palīdzību no sākuma punkta līdz beigu punktam neko neizkustinot un neizbraucot no laukuma.
+
+Ja tiek izkustināts klucītis vai pēc tiesneša ieskatiem ir ticis pārbraukts kartes malai, meiģinājums tiek pārtraukts un karte nav izbraukta. Kārta tiek dota nākamajam dalībniekam.
+
+Visas sacensības notiek 5 kartēs. Katrai kartei var rakstīt savu algoritmu. Pabeidzot vienu karti, dalībnieks iegūst tiesības piedalīties nākamajā kartē. Vienas kartes ietvaros uzvarētājs tiek noteikts pēc trases pieveikšanas ātruma.
+
+Tiesnešiem ir tiesības procesā pielāgot noteikumus pēc saviem ieskatiem.
