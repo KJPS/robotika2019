@@ -48,7 +48,7 @@ for (var name in maps) {
             case "figure":
                 ctx.fillStyle = 'red';
                 ctx.fill();
-		ctx.lineWidth = 4;
+		ctx.lineWidth = 1;
 		ctx.strokeStyle = "black";
                 ctx.stroke();
             break;
