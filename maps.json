@@ -72,23 +72,23 @@
                 "type": "figure",
 		"x": 0,
 		"y": 1617,
-		"width": 768,
+		"width": 708,
 		"height": 63
 	    }, {
                 "type": "figure",
-		"x": 232,
+		"x": 291,
 		"y": 360,
-		"width": 768,
+		"width": 708,
 		"height": 63
 	    }, {
                 "type": "figure",
-		"x": 232,
+		"x": 291,
 		"y": 423,
 		"width": 63,
 		"height": 768
 	    }, {
                 "type": "figure",
-		"x": 705,
+		"x": 646,
 		"y": 849,
 		"width": 63,
 		"height": 768
